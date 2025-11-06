@@ -1,11 +1,7 @@
 # 🛒 Mock E-Commerce Cart
 
 A simple **full-stack shopping cart application** built using React (Frontend), Node/Express (Backend), and MongoDB for storing user data and cart items. This application demonstrates basic e-commerce functionality like adding/removing products from the cart, viewing the cart, and generating invoices in PDF format.
-
-
-### Demo Video:
-
-https://github.com/user-attachments/assets/646b9a32-b9e0-465c-980d-5f6c049eef3f
+ 
 
 
 
